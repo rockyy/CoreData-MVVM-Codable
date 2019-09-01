@@ -1,0 +1,1 @@
+# CoreData-MVVM-Codable
